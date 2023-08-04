@@ -17,6 +17,7 @@ flatpak install -y com.atlauncher.ATLauncher\
   org.gimp.GIMP \
   page.codeberg.JakobDev.jdNBTExplorer \
   org.kde.knetwalk \
-  org.prismlauncher.PrismLauncher
+  org.prismlauncher.PrismLauncher \
+  it.mijorus.gearlever
 
   echo "Faltpaks are installed! Horray!"
