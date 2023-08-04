@@ -20,4 +20,6 @@ flatpak install -y com.atlauncher.ATLauncher\
   org.prismlauncher.PrismLauncher \
   it.mijorus.gearlever
 
-  echo "Faltpaks are installed! Horray!"
+flatpak remove --unused
+
+echo "Faltpaks are installed! Horray!"
