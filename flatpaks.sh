@@ -18,7 +18,8 @@ flatpak install -y com.atlauncher.ATLauncher\
   page.codeberg.JakobDev.jdNBTExplorer \
   org.kde.knetwalk \
   org.prismlauncher.PrismLauncher \
-  it.mijorus.gearlever
+  it.mijorus.gearlever \
+  org.mozilla.Thunderbird
 
 flatpak remove --unused
 
