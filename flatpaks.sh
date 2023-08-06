@@ -1,4 +1,5 @@
-flatpak install -y com.atlauncher.ATLauncher\
+flatpak install -y \
+  com.atlauncher.ATLauncher\
   com.discordapp.Discord \
   com.endlessnetwork.aqueducts \
   com.github.Anuken.Mindustry \
