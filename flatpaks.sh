@@ -8,7 +8,9 @@ flatpak install -y \
   org.gimp.GIMP \
   org.prismlauncher.PrismLauncher \
   it.mijorus.gearlever \
-  org.mozilla.Thunderbird
+  org.mozilla.Thunderbird \
+  pm.mirko.Atoms \
+  com.github.marhkb.Pods
 
 flatpak remove --unused
 
