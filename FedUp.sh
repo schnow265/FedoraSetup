@@ -1,7 +1,7 @@
 mkdir FedoraSetup
 cd FedoraSetup
 
-dnf install -y neofetch unzip zip curl distribution-gpg-keys
+dnf install -y neofetch unzip zip curl distribution-gpg-keys timeshift
 curl -s "https://get.sdkman.io" | bash 
 
 
