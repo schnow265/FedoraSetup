@@ -10,7 +10,9 @@ flatpak install -y \
   it.mijorus.gearlever \
   org.mozilla.Thunderbird \
   pm.mirko.Atoms \
-  com.github.marhkb.Pods
+  com.github.marhkb.Pods \
+  net.sourceforge.Lifeograph \
+  io.github.mpobaschnig.Vaults
 
 flatpak remove --unused
 
