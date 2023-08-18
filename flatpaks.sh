@@ -1,7 +1,7 @@
 flatpak install -y \
   com.github.Anuken.Mindustry \
   com.github.tchx84.Flatseal \
-  com.visualstudio.code \
+  io.podman_desktop.PodmanDesktop \
   io.github.fabiangreffrath.Doom \
   net.blockbench.Blockbench \
   org.blender.Blender \
